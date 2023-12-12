@@ -1,0 +1,299 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "apps": [
+    {
+      "id": 1,
+      "title": "RescueTime",
+      "description": "Автоматично відстежує час, який ви працювали у програмах чи сайтах. Ви отримуєте докладні звіти про вашу діяльність на пристрої Android, Mac, PC. Тож можете бачити повну картину того, як провели свій робочий день. У вас також є можливість отримувати сповіщення, щоб контролювати скільки витратили часу, наприклад, на новини або розважальні сайти.",
+      "app_img": "https://miro.medium.com/v2/resize:fit:512/1*UJJDMefnzQSvqnQdtp07Ww.png",
+      "plarform": [
+        "Windows",
+        "Mac",
+        "Linux"
+      ],
+      "license": "licenses",
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "OmniFocus",
+      "description": "Онлайн-менеджер створює списки завдань із зазначенням строків виконання, пріоритетності, повторюваності. Проєкти можуть складатися за певними ознаками у каталоги. Програма синхронізує всі дані між вашими носіями.",
+      "app_img": "https://www.icons101.com/icon_png/size_512/id_74915/OmniFocus.png",
+      "plarform": [
+        "Windows"
+      ],
+      "license": "licenses",
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Trello",
+      "description": "Нескладна у використанні програма управління проєктами. В цього ресурсу є багато можливостей. Можна писати коментарі, створювати вкладення, запрошувати та затверджувати учасників, встановлювати дедлайни, оформлювати особисті інтерфейси, обмінюватись інформацією. Коли у будь-якого користувача програми змінюються дані, інтерфейс або статус, іншим надходить сповіщення на мобільні пристрої або пошту.",
+      "app_img": "https://cdn.icon-icons.com/icons2/2407/PNG/512/trello_icon_146085.png",
+      "plarform": [
+        "Mac",
+        "Linux"
+      ],
+      "license": "licenses",
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Evernote",
+      "description": "Найвідоміший із застосунків для ведення особистих записів. Дуже зручно використовувати в роботі, адже завжди можна поділитись своїми міркуваннями з колегами, а також разом створити робочий план чи список завдань. Ресурс доступний на Mac, Android, iOS та Windows.",
+      "app_img": "https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/Evernote-512.png",
+      "plarform": [
+        "Linux"
+      ],
+      "license": "licenses",
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Slack",
+      "description": "Найвідоміший із застосунків для ведення особистих записів. Дуже зручно використовувати в роботі, адже завжди можна поділитись своїми міркуваннями з колегами, а також разом створити робочий план чи список завдань. Ресурс доступний на Mac, Android, iOS та Windows.",
+      "app_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png",
+      "plarform": [
+        "Windows",
+        "Mac",
+        "Linux"
+      ],
+      "license": "free",
+      "category": [
+        "business",
+        "messager"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Zoom",
+      "description": "Найпопулярніший останнім часом ресурс для проведення онлайн-конференцій. Американська програма з’явилась у 2011 році, та через світовий локдаун і віддалену роботу в більшості підприємств ресурс отримав неабиякий попит. Кількість користувачів Zoom зросла з 10 млн наприкінці 2019 р. до 200 млн на початку 2020-го. Програма знадобиться, якщо вам необхідно організувати захід із відеозв’язком як для невеликої групи людей (5–10), так і для команди понад 50 осіб. Дає можливість проводити конференції різної тривалості – як 15-хвилинні stand ups, так і 2-годинні наради.",
+      "app_img": "https://seeklogo.com/images/Z/zoom-icon-logo-C552F99BAC-seeklogo.com.png",
+      "plarform": [
+        "Windows",
+        "Mac",
+        "Linux"
+      ],
+      "license": "licenses",
+      "category": [
+        "business",
+        "meeting"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Telegram",
+      "description": "Використовується для внутрішнього й швидкого спілкування з командою. Є окремі теки для зручного листування з командою, партнерами, де важливо не проґавити жодного повідомлення.",
+      "app_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/480px-Telegram_2019_Logo.svg.png",
+      "plarform": [
+        "Windows",
+        "Mac",
+        "Linux"
+      ],
+      "license": "free",
+      "category": [
+        "business",
+        "messager"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Miro",
+      "description": "Онлайн-дошка, яку зручно використовувати для спільних брейнштормів (особливо під час дистанційної роботи команди) і візуалізації своїх ідей.",
+      "app_img": "https://asset.brandfetch.io/idAnDTFapY/idYC5f2L1X.png",
+      "plarform": [
+        "Windows",
+        "Mac",
+        "Linux"
+      ],
+      "license": "licenses",
+      "category": [
+        "business",
+        "messager"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Sketch",
+      "description": "Sketch - один з найбільш популярних додатків для дизайну, так що більшість розробників і дизайнерів з ним знайомі. Інструмент дуже швидкий, інтуїтивний і досить простий у використанні. ",
+      "app_img": "https://cdn.freebiesupply.com/logos/large/2x/sketch-2-logo-png-transparent.png",
+      "plarform": [
+        "Windows",
+        "Mac",
+        "Linux"
+      ],
+      "license": "free",
+      "category": [
+        "design"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Figma",
+      "description": "Figma - це відносно нова програма для дизайну. Вона є найголовнішим конкурентом Sketch і розвивається дуже швидко. Тут є всі ті ж функції, що і в Sketch - плюс кілька дизайнерів можуть працювати над одним проєктом одночасно.",
+      "app_img": "https://miro.medium.com/v2/resize:fit:320/1*j3GPPrDmy2CqnxPw-NtWHg.png",
+      "plarform": [
+        "Windows",
+        "Mac",
+        "Linux"
+      ],
+      "license": "free",
+      "category": [
+        "design"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Adobe XD ",
+      "description": "Adobe Experience Design (Adobe XD) - програма для розробки інтерфейсів від Adobe Systems. Вона є найновішою програмою для побудови (створення) прототипів і макетів. Була створена як гідна альтернатива гучному редактору растрової графіки - Adobe Photoshop.",
+      "app_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png",
+      "plarform": [
+        "Windows"
+      ],
+      "license": "licenses",
+      "category": [
+        "design"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Visual Studio Code ",
+      "description": "Один з найкращих інструментів, що дозволяє створювати ідеальне середовище для конструювання продукту. По суті це набір сервісів, з якими легко планувати та створювати програмні комплекси будь якої складності",
+      "app_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png",
+      "plarform": [
+        "Mac"
+      ],
+      "license": "free",
+      "category": [
+        "programming"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "uTorrent",
+      "description": "Популярний торрент-клієнт для скачування фільмів, музики, ігор та програм з інтернету за допомогою протоколу Bittorrent.",
+      "app_img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/UTorrent_%28logo%29.png",
+      "plarform": [
+        "Windows",
+        "Mac",
+        "Linux"
+      ],
+      "license": "free",
+      "category": [
+        "programming"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Steam",
+      "description": "Steam - програма для з'єднання з однойменним ігровим сервісом, який забезпечує можливість купівлі, скачування та запуску різноманітних ігор. Також користувачам доступні система ігрових досягнень, чат та торговий майданчик для придбання та продажу цифрових предметів.",
+      "app_img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png",
+      "plarform": [
+        "Windows",
+        "Mac",
+        "Linux"
+      ],
+      "license": "free",
+      "category": [
+        "games"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Adobe Animate",
+      "description": "Adobe Animate – це індустріальний стандарт у галузі створення двовимірної та тривимірної веб-анімації. Це багатофункціональне середовище для створення проектів для WebGL, Flash/AIR, HTML5 тощо. ",
+      "app_img": "https://4download.net/pictures/post/Video%20Tools/Adobe%20Animate%20CC%20for%20macos.png",
+      "plarform": [
+        "Linux"
+      ],
+      "license": "licenses",
+      "category": [
+        "design"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Adobe Photoshop",
+      "description": "Adobe Photoshop – графічний редактор, покликаний впоратися з усіма типами растрової графіки. В рамках програмного продукту створена якісна підтримка численних форматів, при цьому є безліч корисних здібностей для обробки зображень. Серед цілого ряду відповідних утиліт професійної схильності, Фотошоп виступає як визнаний лідер.",
+      "app_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png",
+      "plarform": [
+        "Windows"
+      ],
+      "license": "licenses",
+      "category": [
+        "design"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "CCleaner",
+      "description": "CCleaner — вкрай проста та зручна в плані застосування програма, розроблена з метою очищення комп'ютера можливої ​​захаращеності файлової системи та системних реєстрів. Інтелектуальний продукт забезпечує ретельний пошук з подальшим видаленням об'єктів, що втратили свою значущість, які з часом накопичуються на будь-якому персональному комп'ютері, особливо в умовах постійної експлуатації.",
+      "app_img": "https://upload.wikimedia.org/wikipedia/ru/5/51/CCleaner_logo.png",
+      "plarform": [
+        "Windows"
+      ],
+      "license": "licenses",
+      "category": [
+        "utilites"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "OpenOffice",
+      "description": "OpenOffice – набір офісних програм, які можуть бути використані як повноцінна заміна стандартним засобам Microsoft Office. Завдяки програмному продукту, що шукається, користувач здатний отримати цілий спектр корисних інструментів, для організації ефективної діяльності, як в рамках окремо взятого персонального комп'ютера, так і в масштабах цілого офісу.",
+      "app_img": "https://cdn.icon-icons.com/icons2/2699/PNG/512/openoffice_logo_icon_170883.png",
+      "plarform": [
+        "Windows",
+        "Mac",
+        "Linux"
+      ],
+      "license": "free",
+      "category": [
+        "business"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Dr.Web",
+      "description": "Dr.Web забезпечує повноцінний антивірусний захист. Усі файли, які потенційно небезпечні для системи, перевіряються в режимі реального часу через резидентний монітор SpIDer Guard. Документи, завантажені з Інтернету або локальної мережі, скопійовані з флеш карт, CD, або інших носіїв, будуть записані на диск лише якщо це дозволить Spider Guard.",
+      "app_img": "https://sospc.name/wp-content/uploads/2019/11/Dr.Web-sospc.name_.png",
+      "plarform": [
+        "Windows"
+      ],
+      "license": "free",
+      "category": [
+        "utilites"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Spectacle",
+      "description": "Якщо ви працюєте часто з декількома відкритими програмами, то утиліта Spectacle вам знадобиться. Вона дозволяє за допомогою швидких комбінацій клавіш згортати або розгортати певні програми, змінювати їх розмір та положення на дисплеї. Можна також переміщатися між екранами та налаштувати загальну навігацію по системі за допомогою швидких команд.",
+      "app_img": "https://cdn.icon-icons.com/icons2/3053/PNG/512/skim_macos_bigsur_icon_189730.png",
+      "plarform": [
+        "Windows"
+      ],
+      "license": "free",
+      "category": [
+        "utilites"
+      ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

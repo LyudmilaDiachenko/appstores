@@ -1,0 +1,131 @@
+.app_catalog {
+    h2 {
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 130%;
+        /* 62.4px */
+    }
+
+    &_text {
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 30px;
+        color: $secondary-color;
+        margin: 25px 0 90px 0;
+    }
+
+    .load_more_btn {
+        border-radius: 8px;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        background: #1e252b;
+        color: $accent-color;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        padding: 17px 38px;
+        margin-bottom: 200px;
+
+        &:hover {
+            border-color: $accent-color;
+            color: $primary-color;
+        }
+    }
+
+    .app_box {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+
+        .app_cart {
+            width: 300px;
+            height: 244px;
+            padding: 33px;
+            border-radius: 15px;
+            margin-bottom: 117px;
+
+            &:hover {
+                background: rgba(40, 48, 54, 0.6);
+                backdrop-filter: blur(25px);
+            }
+
+            .head {
+                display: flex;
+                align-items: flex-start;
+
+                .company_icon {
+                    max-width: 64px;
+                    height: 60px;
+                    margin-right: 30px;
+                }
+
+                ul {
+                    text-align: start;
+
+                    .name {
+                        font-size: 24px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: normal;
+                        margin-bottom: 3px;
+                    }
+
+                    .status {
+                        font-size: 18px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: normal;
+                        color: $accent-color;
+                    }
+                }
+            }
+
+            .cart_desc {
+                width: 100%;
+                max-height: 40%;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 30px;
+                color: $secondary-color;
+                text-align: start;
+                margin: 30px 0;
+                word-break: break-all;
+                overflow: hidden;
+            }
+
+            .control {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+
+                .icon {
+                    margin-right: 80px;
+
+                    svg {
+                        margin-right: 25px;
+                        fill: $secondary-color;
+                        cursor: pointer;
+                    }
+                }
+
+                a {
+                    font-size: 16px;
+                    font-style: normal;
+                    font-weight: 600;
+                    line-height: normal;
+                    padding: 9px 35px;
+                }
+
+                .btn {
+                    &:hover {
+                        border-radius: 8px;
+                        background-color: $accent-color;
+                    }
+                }
+            }
+        }
+    }
+}
